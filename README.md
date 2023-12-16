@@ -1,1 +1,3 @@
 # CSE258-SentimentAnalysis
+
+Sentiment analysis serves as a subfiled of NLP and has drawn much attention from researchers these days. In this paper, we target at the sentiment analysis specially on Twitter(X). After detailed statistical research on related dataset sentiment140, we find the relationship between the tweet content, tweet posting time and the sentiment. We build our own model BERT-SENTI to get the sentiment classficiation, which exceeds the baseline models in performance.
